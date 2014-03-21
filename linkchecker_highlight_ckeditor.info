@@ -1,0 +1,5 @@
+name = Linkchecker Highlight Ckeditor plugin
+description = highlight broken links in ckeditor
+package = "Filters"
+dependencies[] = filter
+core = 7.x
